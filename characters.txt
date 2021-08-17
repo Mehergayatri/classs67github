@@ -1,1 +1,1 @@
-cdsvc svdc s
+cdsvc svdc sc zc 
